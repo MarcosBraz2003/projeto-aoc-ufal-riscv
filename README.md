@@ -11,7 +11,7 @@ Este repositório contém o código-fonte, os parâmetros de simulação e o rel
 ## Arquivos do Repositório
 - `experimento_aoc.asm`: Código-fonte em Assembly RISC-V comparando a execução padrão (com *Load-Use Hazards*) e a execução otimizada (*Loop Unrolling 4x* + escalonamento de instruções e dois acumuladores).
 - `Relatório Técnico de Arquitetura e Organização de Computadores.pdf`: Relatório técnico completo com fundamentação teórica, metodologia, métricas do RARS e análise crítica.
-- `apresentacao_projeto_aoc.pdf`: Slides utilizados na apresentação e demonstração ao vivo.
+- `Apresentacao Projeto AOC RISC-V.pdf`: Slides utilizados na apresentação e demonstração ao vivo.
 
 ## Resultados Obtidos no Simulador (RARS 1.6)
 - **Validação da Soma (16 elementos):** `741` (idêntica em ambas as versões)
